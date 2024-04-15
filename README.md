@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **BharatNews**
 
-- 🌱 I’m currently learning **Tailwind, MongoDB**
+- 🌱 I’m currently learning **Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://20p3qa0567aman.github.io/Portfolio/](https://20p3qa0567aman.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://Aman0567.github.io/Portfolio/](https://Aman0567.github.io/Portfolio/)
 
 - 💬 Ask me about **React**
 
